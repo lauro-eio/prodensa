@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.cursor/
+node_modules/
+*.zip
+*.pptx
+
+# Nested remote backups
+_archive/repos/

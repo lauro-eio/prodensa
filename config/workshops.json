@@ -1,0 +1,13 @@
+{
+  "CE": {
+    "program_title": "Comunicación efectiva",
+    "folder": "comunicacion-efectiva",
+    "lens_titles": {
+      "T1": "Claridad entre pares",
+      "T2": "Mensajes que llegan en el equipo",
+      "T3": "Alineación cross-área sin ruido",
+      "T4": "Narrativa ejecutiva que decide"
+    },
+    "locale": "es"
+  }
+}
